@@ -55,3 +55,4 @@ function getFetch(){
           console.log(`error ${err}`)
       });
 }
+//site crashed
