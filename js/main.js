@@ -104,3 +104,5 @@ function getFetch(){
           console.log(`error ${err}`)
       });
 }
+
+//make catch errors bc cant see
