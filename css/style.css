@@ -1,0 +1,193 @@
+/* Box Model Hack */
+* {
+     box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+.top{
+     text-indent: 10px;
+     font-family: 'gloria hallelujah';
+}
+.top > a{
+     
+     border: 2px solid purple;
+     text-decoration: none;
+     color: black;
+     font-size: 30px;
+
+     
+}
+.topBar{
+     
+     list-style: none;
+     display: flex;
+     justify-content: center; 
+     text-indent: 10px;
+   
+     
+}
+.topBar > li > a{
+     border: 2px solid purple;
+     text-decoration: none;
+     color: black;
+     font-size: 20px;
+     
+     
+}
+.first{
+     
+     height: 700px;
+     background-image: url("hair.jpg");
+     background-size: 1500px;
+     color: white;
+     font-size: 40px;
+     font-family: 'bad script';
+}
+.first > h1{
+     padding-top: 200px;
+     
+}
+.first > a{
+     text-decoration: none;  
+     color:blanchedalmond;
+     border: 2px dashed gray;
+     background-color:dimgray;
+     opacity: .5;
+     
+     
+}
+    
+
+
+.second{
+     padding-top: 100px;
+
+     height: 400px;
+     display: flex;
+     justify-content: space-evenly;
+     text-align: center;
+     font-family: 'bad script';
+
+     
+}
+.fa-solid{
+     text-indent: 20px;
+     font-size: 30px;
+}
+.fa-regular {
+     text-indent: 20px;
+     font-size: 30px;
+}
+.fa-regular {
+     text-indent: 20px;
+     font-size: 30px;
+}
+
+
+.third{
+     border: 2px dashed silver;
+     border-style: ridge;
+     height: 350px;
+     display: flex;
+     justify-content: space-between;
+     background-color:antiquewhite;
+     font-family: 'rock salt';
+     font-size: 14px;
+}
+.third > section > h3{
+     padding-left: 100px;
+     flex-wrap: wrap;
+     width: 50%;
+}
+.third > section > p{
+     padding-left: 100px;
+     flex-wrap: wrap;
+     width: 50%;
+}
+.picDisplay > img{
+     height: 350px;
+     width: 600px;
+     padding-right: 100px;
+     padding-top: 5px;
+     padding-bottom: 10px;
+}
+.stylist{
+
+     height: 400px;
+     text-align: center;
+     font-family: 'gloria hallelujah';
+     
+}
+.stylist > img{
+     height: 300px;
+     width: 300px;
+
+}
+.names{
+     display: flex;
+     justify-content: center;
+     text-indent: 150px;
+     font-family: 'gloria hallelujah';
+     font-size: 20px;
+
+}
+.names > span{
+     color: black;
+}
+
+.last{
+
+     height: 700px;
+     display: grid;
+     gap: 10px 20px;
+     row-gap: 10px;
+     font-family:'water brush';
+     font-size: 50px;
+     
+}
+.last > img{
+     height: 300px;
+     width: 400px;
+}
+.item1{
+     grid-column-start: 1;
+     grid-column-end: 1;
+}
+.item2{
+     grid-column-start: 2;
+     grid-column-end: 3;
+}
+.item3{
+     grid-column-start: 3;
+     grid-column-end: 4;
+}
+
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
