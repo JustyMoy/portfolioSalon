@@ -1,5 +1,5 @@
-# My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# Cilent Salon web page
+Web page developed for cilent to help with booking appointments and finding out more information about the business.
 
 **Link to project:** https://mkecolor.netlify.app/
 
@@ -8,27 +8,41 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
 ## Optimizations
-*(optional)*
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+I would like to add some more javascript animations to the front end. Would also like to add some javascript to add gifs to front page.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Seperation of Concerns. Realized how much easier it is to add css animations than to add custom javascript to change hover interactions.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="33.3%" valign="top">
+    
+<a target="_blank" href="https://github.com/JustyMoy/HealthyCheatMealAPI"> Healthy Cheat Meals</a>
+        <br />
+      <a target="_blank" href="https://github.com/JustyMoy/HealthyCheatMealAPI">
+![alt tag](https://user-images.githubusercontent.com/87396968/179097309-b8ebcdb1-28db-4bfa-86d0-06d1e5b36bbd.png)
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/JustyMoy/portfolioSalon"> Portfolio Website</a>
+        <br />
+      <a target="_blank" href="https://github.com/JustyMoy/PortfolioWebsite">
+![alt tag](https://user-images.githubusercontent.com/87396968/179094479-a3d272dc-7645-439c-aaab-b28f61a30670.png)
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/JustyMoy/randomRecipeGenerator"> Randon Recipe Generator</a>
+        <br />
+      <a target="_blank" href="https://github.com/JustyMoy/portfolioSalon">
+![alt tag](https://user-images.githubusercontent.com/87396968/179095031-c2fe9829-1748-44c0-baa7-bcf55c3bd171.png)
+        </a>
+    </td>
+  </tr>
+</table>
 
 
 
